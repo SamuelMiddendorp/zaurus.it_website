@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo_ink.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg983"
+   version="1.1"
+   viewBox="0 0 135.77826 21.5"
+   height="21.5mm"
+   width="135.77826mm">
+  <defs
+     id="defs977" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1417"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="26.426469"
+     inkscape:cx="221.87752"
+     inkscape:zoom="1.979899"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata980">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-44.747893,-111.79262)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path855-9"
+       d="m 48.419353,122.39123 14.685867,-8.47889 -3.671455,-2.11972 -14.685872,8.47888 z"
+       style="fill:#26ff9e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.34px;line-height:1.25;font-family:Rockwell;-inkscape-font-specification:Rockwell;letter-spacing:0.103036px;fill:#57b993;fill-opacity:1;stroke-width:0.264583"
+       x="67.523079"
+       y="132.74754"
+       id="text835"
+       transform="scale(0.99836478,1.0016379)"><tspan
+         sodipodi:role="line"
+         x="67.523079"
+         y="132.74754"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.34px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan837">ZAURUS.IT</tspan></text>
+    <path
+       style="fill:#26ff9e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.419358,130.87011 14.685867,-8.47888 3.671472,2.11973 -12.850141,7.41902 -1.83573,1.05986 z"
+       id="path853" />
+    <path
+       style="fill:#26ff9e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.255075,127.69053 14.685867,-8.47889 -3.671456,-2.11971 -14.685872,8.47888 z"
+       id="path855" />
+  </g>
+</svg>

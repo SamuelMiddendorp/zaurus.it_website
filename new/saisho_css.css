@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.saisho-rightpad{
+    margin-right: 2em;
+}
+@keyframes saisho-simple-raise{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-10%);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+@keyframes saisho-simple-jump{
+    0%{
+        transform: translateY(0);
+    }
+    30%{
+        transform: translateY(5%);
+    }
+    50%{
+        transform: translateY(5%);
+    }
+    70%{
+        transform: translateY(-60%);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
